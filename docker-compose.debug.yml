@@ -9,4 +9,4 @@
      ports:
        - 3000
        - 8888:80
-     command: node --inspect=0.0.0.0:9229 ./bin/www
+     command: node --inspect=0.0.0.0:9229 ./bin
